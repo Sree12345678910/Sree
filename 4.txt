@@ -1,0 +1,4 @@
+this is clone file
+is this clone file
+this is not clone file
+Is this not clone file
